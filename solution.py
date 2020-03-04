@@ -66,5 +66,3 @@ ascii = [
 'y',
 'z'
 ]
-
-print solution("cody")
